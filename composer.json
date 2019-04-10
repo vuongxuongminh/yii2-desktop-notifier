@@ -11,7 +11,7 @@
         }
     ],
     "require": {
-        "php": ">=7.0",
+        "php": ">=7.1",
         "yiisoft/yii2": ">=2.0.13",
         "jolicode/jolinotif": "~2.0"
     },

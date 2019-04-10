@@ -9,7 +9,7 @@
 
 ## About it
 
-An extension support send desktop notify base on [JoliNotif](https://github.com/jolicode/JoliNotif) wrapper for Yii2 console controller.
+An extension support send desktop notify base on [JoliNotif](https://github.com/jolicode/JoliNotif) wrapper for Yii2 console controller. Works on Linux, Windows & MacOS.
 
 ## Requirements
 

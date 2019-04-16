@@ -49,7 +49,7 @@ class TestCase extends BaseTestCase
             'id' => 'test',
             'basePath' => __DIR__,
             'bootstrap' => ['vxm\desktopNotifier\Bootstrap'],
-            'vendorPath' => dirname(__DIR__, 2) . '/vendor'
+            'vendorPath' => dirname(__DIR__) . '/vendor'
         ], $config));
     }
 
